@@ -67,3 +67,9 @@ crashlytics-build.properties
 Assets/StreamingAssets/build_info.txt
 Assets/AssetUasageDetector
 Assets/AssetUasageDetector.meta
+Assets/AssetStoreTools.meta
+Assets/AssetStoreTools/AS_Checklist.asset
+Assets/AssetStoreTools/AS_Checklist.asset.meta
+Assets/AssetStoreTools/Editor.meta
+Assets/AssetStoreTools/Editor/AssetStoreTools.dll
+Assets/AssetStoreTools/Editor/AssetStoreTools.dll.meta
