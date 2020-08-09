@@ -1,16 +1,22 @@
 {
-  "name": "com.geniikw.MonoInvoker",
-  "version": "1.0.0",
+  "name": "com.geniikw.monoinvoker",
+  "version": "1.0.2",
   "displayName": "MonoInvoker",
-  "description": "A tool allows invoke a function in inspector,
-  "unity": "2019.2",
-  "keywords": [
-    "tool",
-    "asset"
+  "description": "testing...",
+  "unity": "2019.3",
+  "unityRelease": "0b5",
+  "dependencies": {
+    "com.unity.some-package": "1.0.0",
+    "com.unity.other-package": "2.0.0"
+ },
+ "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
   ],
   "author": {
-    "name": "geniikw",
-    "email": "geniikw@gmail.com"
-  },
-  "type": "tool"
+    "name": "My Company",
+    "email": "hello@example.com",
+    "url": "https://www.mycompany.com"
+  }
 }
