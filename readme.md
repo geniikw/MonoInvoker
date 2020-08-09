@@ -5,6 +5,24 @@
 1. In monobehaviour class, add [TestMethod] above method. you want simply call.
 2. now you can see method call interface in inspector.
 
+## Example
+
+```csharp
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class MonoInvokerSample : MonoBehaviour
+{    
+    [TestMethod]
+    void Move(float x)
+    {
+        transform.Translate(x,0,0);    
+    }
+}
+```
+![example](example.gif)
+
 # Caution
 
 1.You can [TestMethod(false)] if you dont want play in editor mode. 
