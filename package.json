@@ -1,6 +1,6 @@
 {
   "name": "com.geniikw.MonoInvoker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "MonoInvoker",
   "description": "A tool allows invoke a function in inspector",
   "unity": "2019.2",
