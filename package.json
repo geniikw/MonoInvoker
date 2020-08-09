@@ -2,21 +2,17 @@
   "name": "com.geniikw.monoinvoker",
   "version": "1.0.2",
   "displayName": "MonoInvoker",
-  "description": "testing...",
+  "description": "Simple test tool.",
   "unity": "2019.3",
-  "unityRelease": "0b5",
   "dependencies": {
-    "com.unity.some-package": "1.0.0",
-    "com.unity.other-package": "2.0.0"
  },
  "keywords": [
-    "keyword1",
-    "keyword2",
-    "keyword3"
+    "Invoker",
+    "Test",
+    "Method"
   ],
   "author": {
-    "name": "My Company",
-    "email": "hello@example.com",
-    "url": "https://www.mycompany.com"
+    "name": "geniikw",
+    "email": "geniikw@gmail.com"
   }
 }
