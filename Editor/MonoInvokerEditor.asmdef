@@ -1,5 +1,5 @@
 {
-    "name": "MonoInvoker",
+    "name": "MonoInvokerEditor",
     "references": [],
     "includePlatforms": [
         "Editor"
