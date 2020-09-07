@@ -25,7 +25,7 @@ public class MonoInvokerSample : MonoBehaviour
 
 # Caution
 
-1.You can [TestMethod(false)] if you dont want play in editor mode. 
+1.You can write parameter like [TestMethod(false)], if you dont want play in editor mode. 
     basically, if a method contains StartCoroutine, it doent work in editor mode.
     
 2.If you use custom editor. editor class have to inherit MonoInvoker.MonoBehaviourEditor not UnityEditor.Editor.
