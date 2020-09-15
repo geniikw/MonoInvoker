@@ -5,6 +5,10 @@
 1. In monobehaviour class, add [TestMethod] above method. you want simply call.
 2. now you can see method call interface in inspector.
 
+## todo
+1. add list parameter.
+2. serialize parameter values. 
+
 ## Example
 
 ```csharp
