@@ -8,6 +8,7 @@
 ## todo
 1. add list parameter.
 2. serialize parameter values. 
+3. implement package manager compatibility.
 
 ## Example
 
