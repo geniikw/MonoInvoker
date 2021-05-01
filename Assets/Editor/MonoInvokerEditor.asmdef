@@ -1,0 +1,18 @@
+{
+    "name": "MonoInvokerEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3709effe485d16e49aedd5c06dd38bcc"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
