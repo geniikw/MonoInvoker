@@ -1,5 +1,11 @@
 # MonoInvoker 
 
+## Install
+
+In Unity3d
+1. go Window > Package Manager > '+'(left above) > Add packaga from git URL...
+2. paste url : https://github.com/geniikw/MonoInvoker.git
+
 ## step
 
 1. In monobehaviour class, add [TestMethod] above method. you want simply call.
