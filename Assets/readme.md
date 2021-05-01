@@ -5,6 +5,11 @@
 1. In monobehaviour class, add [TestMethod] above method. you want simply call.
 2. now you can see method call interface in inspector.
 
+## todo
+1. add list parameter.
+2. serialize parameter values. 
+3. implement package manager compatibility.
+
 ## Example
 
 ```csharp
@@ -25,7 +30,7 @@ public class MonoInvokerSample : MonoBehaviour
 
 # Caution
 
-1.You can [TestMethod(false)] if you dont want play in editor mode. 
+1.You can write parameter like [TestMethod(false)], if you dont want play in editor mode. 
     basically, if a method contains StartCoroutine, it doent work in editor mode.
     
 2.If you use custom editor. editor class have to inherit MonoInvoker.MonoBehaviourEditor not UnityEditor.Editor.
